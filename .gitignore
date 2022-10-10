@@ -1,0 +1,4 @@
+*.exe
+game
+*.bin
+.vscode
